@@ -1,0 +1,30 @@
+{
+  "name": "mongoskin-sessions",
+  "version": "1.0.0",
+  "description": "Express.js sessions middleware backed by MongoSkin",
+  "keywords": [
+    "expressjs",
+    "session",
+    "mongoskin",
+    "mongodb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arieljake/mongoskin-sessions.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.6.0",
+    "npm": ">=1.0.0"
+  },
+  "readme": "# mongoskin-sessions\nExpressJS session store implemented to accept an existing mongoskin object\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/arieljake/mongoskin-sessions/issues"
+  },
+  "homepage": "https://github.com/arieljake/mongoskin-sessions",
+  "_id": "mongoskin-sessions@1.0.0",
+  "_shasum": "2867808fdbdd594a943a00d26a75b42016d51972",
+  "_resolved": "git+https://github.com/arieljake/mongoskin-sessions#cf5f4aa6e070e45bfb90e2038d8fadec020d4a7b",
+  "_from": "mongoskin-sessions@git+https://github.com/arieljake/mongoskin-sessions"
+}
